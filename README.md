@@ -1,6 +1,6 @@
 # Codeforces
 
-Just a couple of exercises from https://codeforces.com/
+A couple of exercises from https://codeforces.com/
 
 
 ## Problem Statements ##
