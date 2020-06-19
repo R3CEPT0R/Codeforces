@@ -17,4 +17,5 @@ A couple of exercises from https://codeforces.com/
 
 * <a href="https://codeforces.com/contest/1337/problem/A">Ichihime and Triangle</a> - <a href="https://github.com/R3CEPT0R/Codeforces/blob/master/Problems/IchihimeandTriangle.cpp">Solution</a> 
 
+* <a href="https://codeforces.com/contest/540/problem/A">Combination Lock</a> - <a href="https://github.com/R3CEPT0R/Codeforces/blob/master/Problems/IchihimeandTriangle.cpp">Solution</a> 
 
