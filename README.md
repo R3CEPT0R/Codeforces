@@ -1,6 +1,6 @@
 # Codeforces
 
-A couple of exercises from https://codeforces.com/
+A couple of exercises from https://codeforces.com/ <br />
 All submissions: http://codeforces.com/submissions/pr0mise
 
 
