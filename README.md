@@ -1,6 +1,7 @@
 # Codeforces
 
 A couple of exercises from https://codeforces.com/
+All submissions: http://codeforces.com/submissions/pr0mise
 
 
 ## Problem Statements ##
